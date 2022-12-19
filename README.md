@@ -5,7 +5,7 @@ This Python script takes as input a MSP relative abundance table (MSP against Sa
 or a gene count table, and outputs a Reaction relative abundance table and a reactobiome table.
 The ID for the ouput reactions are the KEGG database reaction ids.
 
-Uncompress "*.gz" file from data folder before running
+<b>Uncompress "*.gz" file from data folder before running <b>
 
 Usage example,
 Using MSP table as input:
