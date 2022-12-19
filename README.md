@@ -8,12 +8,12 @@ The ID for the ouput reactions are the KEGG database reaction ids.
 Usage example,
 Using MSP table as input:
 
-$ ReactionAbundance.py --gct_table <path to MSP table>
+$ ReactionAbundance.py --gct_table \<path to MSP table\>
 
 
 Using gene count table as input:
 
-$ ReactionAbundance.py --gct_table <path to input gene count table>
+$ ReactionAbundance.py --gct_table \<path to input gene count table\":>
 
 
 The values in the reactobiome table reflect the fraction of MSP where a reaction is present 
